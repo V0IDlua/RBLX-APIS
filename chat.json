@@ -1,1 +1,27 @@
-[{"timestamp":1766598699,"userid":1234567890,"placeid":1234567890,"jobid":"example-job-id","name":"YourUsername","message":"hello"},{"timestamp":1766598729,"userid":1234567890,"placeid":1234567890,"jobid":"example-job-id","name":"YourUsername","message":"hello"}]
+[
+  {
+    "timestamp": 1766598699,
+    "userid": 1234567890,
+    "placeid": 1234567890,
+    "jobid": "example-job-id",
+    "name": "YourUsername",
+    "message": "hello"
+  },
+  {
+    "timestamp": 1766598729,
+    "userid": 1234567890,
+    "placeid": 1234567890,
+    "jobid": "example-job-id",
+    "name": "YourUsername",
+    "message": "hello"
+  },
+  {
+    "timestamp": 1766598910,
+    "date": "2025-12-24 17:55:10 UTC",
+    "userid": 1234567890,
+    "placeid": 1234567890,
+    "jobid": "example-job-id",
+    "name": "YourUsername",
+    "message": "hello"
+  }
+]
