@@ -1,0 +1,4 @@
+{
+  "message": "Hello",
+  "run": "print(\"testing\")"
+}
